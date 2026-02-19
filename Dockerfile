@@ -1,18 +1,12 @@
 FROM python:3.12-slim
 
-# Install system dependencies for Playwright Chromium
+# Install system dependencies for Camoufox (Firefox) + Xvfb for virtual display
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    libnss3 \
-    libatk-bridge2.0-0 \
-    libdrm2 \
-    libxcomposite1 \
-    libxdamage1 \
-    libxrandr2 \
-    libgbm1 \
-    libpango-1.0-0 \
-    libcairo2 \
+    libgtk-3-0 \
     libasound2 \
-    libxshmfence1 \
+    libx11-xcb1 \
+    libdbus-glib-1-2 \
+    xvfb \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
@@ -21,24 +15,23 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Install Playwright Chromium (the only browser we need for Railway)
-RUN playwright install --with-deps chromium
+# Install Playwright browser dependencies and Chromium
+RUN playwright install-deps && playwright install chromium
+
+# Download Camoufox browser binary (bake into image, not at runtime)
+# Use timeout to prevent hanging during build
+RUN timeout 300 python -m camoufox fetch || echo "Camoufox fetch timed out, will fetch at runtime if needed"
 
 # Copy application code
 COPY . .
 
-# Create .streamlit config directory
-RUN mkdir -p /app/.streamlit
-
-# Copy startup script and fix line endings
+# Copy startup script
 COPY start.sh /app/start.sh
-RUN sed -i 's/\r$//' /app/start.sh && chmod +x /app/start.sh
+RUN chmod +x /app/start.sh
 
-# Use Playwright on Railway (not Camoufox — simpler and more reliable)
-ENV BROWSER_ENGINE=playwright
-ENV PYTHONUNBUFFERED=1
+# Railway provides PORT env variable
+ENV PORT=8501
+EXPOSE $PORT
 
-# Railway injects PORT at runtime — don't hardcode it
-EXPOSE 8501
-
+# Run startup script that handles PORT variable
 CMD ["/app/start.sh"]
