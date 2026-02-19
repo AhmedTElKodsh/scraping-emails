@@ -1,0 +1,11 @@
+services:
+  scraping-emails:
+    build: .
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Shared memory size for browser — Firefox needs more than the default 64MB
+    shm_size: "512mb"
+    mem_limit: 1g
