@@ -1,0 +1,2361 @@
+========================================================================================================================
+FARIDA ESTATE - DETAILED PROPERTY ANALYSIS
+========================================================================================================================
+Total Properties: 20
+Generated: 2026-02-15 20:40:16
+
+
+========================================================================================================================
+PROPERTY #1 - ID: 373
+========================================================================================================================
+{
+  "max_shares_per_investor": 20,
+  "id": 373,
+  "accept_waiting_list": false,
+  "available_shares": 9,
+  "available_shares_for_sale": 0,
+  "available_shares_not_to_sale": 9,
+  "currency": "EGP",
+  "delivery_date": "2028-02-17",
+  "exit_date": "2034-04-22",
+  "for_rent": false,
+  "for_sale": true,
+  "funding_status": "funded",
+  "installment_interval": "monthly",
+  "is_published": true,
+  "listing_status": "active",
+  "location": "New Cairo’s Sixth District",
+  "ownership_type": "co",
+  "property_sub_type": "First Home",
+  "property_type": "residential",
+  "publish_time": "2026-02-12T15:00:00",
+  "sold_shares": 16,
+  "title": "Residential unit 4 + Out 35M2 - Noll Compound",
+  "total_shares": 25,
+  "installments_count": 99,
+  "down_payment": 10860.0,
+  "down_payments_count": 2,
+  "images": [
+    {
+      "id": 56382,
+      "uuid": "fd6f12a5-c3a0-421c-b298-46da462306a5",
+      "file_name": "88ccff8d-837f-4b35-a49f-3d8377a67b39.jpg",
+      "original_url": "https://faridah.s3.amazonaws.com/56382%2F88ccff8d-837f-4b35-a49f-3d8377a67b39.jpg",
+      "thumb_url": "https://faridah.s3.amazonaws.com/56382%2Fconversions%2F88ccff8d-837f-4b35-a49f-3d8377a67b39-thumb.jpg",
+      "web_url": "https://faridah.s3.amazonaws.com/56382%2Fconversions%2F88ccff8d-837f-4b35-a49f-3d8377a67b39-web.webp",
+      "preview_url": "https://faridah.s3.amazonaws.com/56382%2Fconversions%2F88ccff8d-837f-4b35-a49f-3d8377a67b39-preview.jpg",
+      "extension": "jpeg",
+      "size": 114717,
+      "order": 1
+    }
+  ],
+  "return": 0.0,
+  "installment": 555.0,
+  "payment_schedules": {
+    "down_payments": [
+      {
+        "id": 22276,
+        "amount": 10860.0,
+        "currency": "EGP",
+        "due_date": "2026-02-12",
+        "name": "Down Payment 1",
+        "type": "down_payment"
+      },
+      {
+        "id": 22279,
+        "amount": 3405.0,
+        "currency": "EGP",
+        "due_date": "2026-05-05",
+        "name": "Down Payment 2",
+        "type": "down_payment"
+      }
+    ],
+    "installments": [
+      {
+        "id": 22277,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-03-12",
+        "name": "Installment 1",
+        "type": "installment"
+      },
+      {
+        "id": 22278,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-04-12",
+        "name": "Installment 2",
+        "type": "installment"
+      },
+      {
+        "id": 22280,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-05-12",
+        "name": "Installment 3",
+        "type": "installment"
+      },
+      {
+        "id": 22281,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-06-12",
+        "name": "Installment 4",
+        "type": "installment"
+      },
+      {
+        "id": 22282,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-07-12",
+        "name": "Installment 5",
+        "type": "installment"
+      },
+      {
+        "id": 22283,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-08-12",
+        "name": "Installment 6",
+        "type": "installment"
+      },
+      {
+        "id": 22284,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-09-12",
+        "name": "Installment 7",
+        "type": "installment"
+      },
+      {
+        "id": 22285,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-10-12",
+        "name": "Installment 8",
+        "type": "installment"
+      },
+      {
+        "id": 22286,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-11-12",
+        "name": "Installment 9",
+        "type": "installment"
+      },
+      {
+        "id": 22287,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2026-12-12",
+        "name": "Installment 10",
+        "type": "installment"
+      },
+      {
+        "id": 22288,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-01-12",
+        "name": "Installment 11",
+        "type": "installment"
+      },
+      {
+        "id": 22289,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-02-12",
+        "name": "Installment 12",
+        "type": "installment"
+      },
+      {
+        "id": 22290,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-03-12",
+        "name": "Installment 13",
+        "type": "installment"
+      },
+      {
+        "id": 22291,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-04-12",
+        "name": "Installment 14",
+        "type": "installment"
+      },
+      {
+        "id": 22292,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-05-12",
+        "name": "Installment 15",
+        "type": "installment"
+      },
+      {
+        "id": 22293,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-06-12",
+        "name": "Installment 16",
+        "type": "installment"
+      },
+      {
+        "id": 22294,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-07-12",
+        "name": "Installment 17",
+        "type": "installment"
+      },
+      {
+        "id": 22295,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-08-12",
+        "name": "Installment 18",
+        "type": "installment"
+      },
+      {
+        "id": 22296,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-09-12",
+        "name": "Installment 19",
+        "type": "installment"
+      },
+      {
+        "id": 22297,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-10-12",
+        "name": "Installment 20",
+        "type": "installment"
+      },
+      {
+        "id": 22298,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-11-12",
+        "name": "Installment 21",
+        "type": "installment"
+      },
+      {
+        "id": 22299,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2027-12-12",
+        "name": "Installment 22",
+        "type": "installment"
+      },
+      {
+        "id": 22300,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-01-12",
+        "name": "Installment 23",
+        "type": "installment"
+      },
+      {
+        "id": 22301,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-02-12",
+        "name": "Installment 24",
+        "type": "installment"
+      },
+      {
+        "id": 22302,
+        "amount": 5440.0,
+        "currency": "EGP",
+        "due_date": "2028-02-15",
+        "name": "Maintenance Deposit 1",
+        "type": "maintenance_deposit"
+      },
+      {
+        "id": 22303,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-03-12",
+        "name": "Installment 25",
+        "type": "installment"
+      },
+      {
+        "id": 22304,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-04-12",
+        "name": "Installment 26",
+        "type": "installment"
+      },
+      {
+        "id": 22305,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-05-12",
+        "name": "Installment 27",
+        "type": "installment"
+      },
+      {
+        "id": 22306,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-06-12",
+        "name": "Installment 28",
+        "type": "installment"
+      },
+      {
+        "id": 22307,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-07-12",
+        "name": "Installment 29",
+        "type": "installment"
+      },
+      {
+        "id": 22308,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-08-12",
+        "name": "Installment 30",
+        "type": "installment"
+      },
+      {
+        "id": 22309,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-09-12",
+        "name": "Installment 31",
+        "type": "installment"
+      },
+      {
+        "id": 22310,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-10-12",
+        "name": "Installment 32",
+        "type": "installment"
+      },
+      {
+        "id": 22311,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-11-12",
+        "name": "Installment 33",
+        "type": "installment"
+      },
+      {
+        "id": 22312,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2028-12-12",
+        "name": "Installment 34",
+        "type": "installment"
+      },
+      {
+        "id": 22313,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-01-12",
+        "name": "Installment 35",
+        "type": "installment"
+      },
+      {
+        "id": 22314,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-02-12",
+        "name": "Installment 36",
+        "type": "installment"
+      },
+      {
+        "id": 22315,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-03-12",
+        "name": "Installment 37",
+        "type": "installment"
+      },
+      {
+        "id": 22316,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-04-12",
+        "name": "Installment 38",
+        "type": "installment"
+      },
+      {
+        "id": 22317,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-05-12",
+        "name": "Installment 39",
+        "type": "installment"
+      },
+      {
+        "id": 22318,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-06-12",
+        "name": "Installment 40",
+        "type": "installment"
+      },
+      {
+        "id": 22319,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-07-12",
+        "name": "Installment 41",
+        "type": "installment"
+      },
+      {
+        "id": 22320,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-08-12",
+        "name": "Installment 42",
+        "type": "installment"
+      },
+      {
+        "id": 22321,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-09-12",
+        "name": "Installment 43",
+        "type": "installment"
+      },
+      {
+        "id": 22322,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-10-12",
+        "name": "Installment 44",
+        "type": "installment"
+      },
+      {
+        "id": 22323,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-11-12",
+        "name": "Installment 45",
+        "type": "installment"
+      },
+      {
+        "id": 22324,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2029-12-12",
+        "name": "Installment 46",
+        "type": "installment"
+      },
+      {
+        "id": 22325,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-01-12",
+        "name": "Installment 47",
+        "type": "installment"
+      },
+      {
+        "id": 22326,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-02-12",
+        "name": "Installment 48",
+        "type": "installment"
+      },
+      {
+        "id": 22327,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-03-12",
+        "name": "Installment 49",
+        "type": "installment"
+      },
+      {
+        "id": 22328,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-04-12",
+        "name": "Installment 50",
+        "type": "installment"
+      },
+      {
+        "id": 22329,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-05-12",
+        "name": "Installment 51",
+        "type": "installment"
+      },
+      {
+        "id": 22330,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-06-12",
+        "name": "Installment 52",
+        "type": "installment"
+      },
+      {
+        "id": 22331,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-07-12",
+        "name": "Installment 53",
+        "type": "installment"
+      },
+      {
+        "id": 22332,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-08-12",
+        "name": "Installment 54",
+        "type": "installment"
+      },
+      {
+        "id": 22333,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-09-12",
+        "name": "Installment 55",
+        "type": "installment"
+      },
+      {
+        "id": 22334,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-10-12",
+        "name": "Installment 56",
+        "type": "installment"
+      },
+      {
+        "id": 22335,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-11-12",
+        "name": "Installment 57",
+        "type": "installment"
+      },
+      {
+        "id": 22336,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2030-12-12",
+        "name": "Installment 58",
+        "type": "installment"
+      },
+      {
+        "id": 22337,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-01-12",
+        "name": "Installment 59",
+        "type": "installment"
+      },
+      {
+        "id": 22338,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-02-12",
+        "name": "Installment 60",
+        "type": "installment"
+      },
+      {
+        "id": 22339,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-03-12",
+        "name": "Installment 61",
+        "type": "installment"
+      },
+      {
+        "id": 22340,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-04-12",
+        "name": "Installment 62",
+        "type": "installment"
+      },
+      {
+        "id": 22341,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-05-12",
+        "name": "Installment 63",
+        "type": "installment"
+      },
+      {
+        "id": 22342,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-06-12",
+        "name": "Installment 64",
+        "type": "installment"
+      },
+      {
+        "id": 22343,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-07-12",
+        "name": "Installment 65",
+        "type": "installment"
+      },
+      {
+        "id": 22344,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-08-12",
+        "name": "Installment 66",
+        "type": "installment"
+      },
+      {
+        "id": 22345,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-09-12",
+        "name": "Installment 67",
+        "type": "installment"
+      },
+      {
+        "id": 22346,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-10-12",
+        "name": "Installment 68",
+        "type": "installment"
+      },
+      {
+        "id": 22347,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-11-12",
+        "name": "Installment 69",
+        "type": "installment"
+      },
+      {
+        "id": 22348,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2031-12-12",
+        "name": "Installment 70",
+        "type": "installment"
+      },
+      {
+        "id": 22349,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-01-12",
+        "name": "Installment 71",
+        "type": "installment"
+      },
+      {
+        "id": 22350,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-02-12",
+        "name": "Installment 72",
+        "type": "installment"
+      },
+      {
+        "id": 22351,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-03-12",
+        "name": "Installment 73",
+        "type": "installment"
+      },
+      {
+        "id": 22352,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-04-12",
+        "name": "Installment 74",
+        "type": "installment"
+      },
+      {
+        "id": 22353,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-05-12",
+        "name": "Installment 75",
+        "type": "installment"
+      },
+      {
+        "id": 22354,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-06-12",
+        "name": "Installment 76",
+        "type": "installment"
+      },
+      {
+        "id": 22355,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-07-12",
+        "name": "Installment 77",
+        "type": "installment"
+      },
+      {
+        "id": 22356,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-08-12",
+        "name": "Installment 78",
+        "type": "installment"
+      },
+      {
+        "id": 22357,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-09-12",
+        "name": "Installment 79",
+        "type": "installment"
+      },
+      {
+        "id": 22358,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-10-12",
+        "name": "Installment 80",
+        "type": "installment"
+      },
+      {
+        "id": 22359,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-11-12",
+        "name": "Installment 81",
+        "type": "installment"
+      },
+      {
+        "id": 22360,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2032-12-12",
+        "name": "Installment 82",
+        "type": "installment"
+      },
+      {
+        "id": 22361,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-01-12",
+        "name": "Installment 83",
+        "type": "installment"
+      },
+      {
+        "id": 22362,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-02-12",
+        "name": "Installment 84",
+        "type": "installment"
+      },
+      {
+        "id": 22363,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-03-12",
+        "name": "Installment 85",
+        "type": "installment"
+      },
+      {
+        "id": 22364,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-04-12",
+        "name": "Installment 86",
+        "type": "installment"
+      },
+      {
+        "id": 22365,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-05-12",
+        "name": "Installment 87",
+        "type": "installment"
+      },
+      {
+        "id": 22366,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-06-12",
+        "name": "Installment 88",
+        "type": "installment"
+      },
+      {
+        "id": 22367,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-07-12",
+        "name": "Installment 89",
+        "type": "installment"
+      },
+      {
+        "id": 22368,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-08-12",
+        "name": "Installment 90",
+        "type": "installment"
+      },
+      {
+        "id": 22369,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-09-12",
+        "name": "Installment 91",
+        "type": "installment"
+      },
+      {
+        "id": 22370,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-10-12",
+        "name": "Installment 92",
+        "type": "installment"
+      },
+      {
+        "id": 22371,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-11-12",
+        "name": "Installment 93",
+        "type": "installment"
+      },
+      {
+        "id": 22372,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2033-12-12",
+        "name": "Installment 94",
+        "type": "installment"
+      },
+      {
+        "id": 22373,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2034-01-12",
+        "name": "Installment 95",
+        "type": "installment"
+      },
+      {
+        "id": 22374,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2034-02-12",
+        "name": "Installment 96",
+        "type": "installment"
+      },
+      {
+        "id": 22375,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2034-03-12",
+        "name": "Installment 97",
+        "type": "installment"
+      },
+      {
+        "id": 22376,
+        "amount": 555.0,
+        "currency": "EGP",
+        "due_date": "2034-04-12",
+        "name": "Installment 98",
+        "type": "installment"
+      }
+    ]
+  }
+}
+
+========================================================================================================================
+PROPERTY #2 - ID: 372
+========================================================================================================================
+{
+  "max_shares_per_investor": 20,
+  "id": 372,
+  "accept_waiting_list": false,
+  "available_shares": 11,
+  "available_shares_for_sale": 0,
+  "available_shares_not_to_sale": 11,
+  "currency": "EGP",
+  "delivery_date": "2028-11-30",
+  "exit_date": "2034-01-09",
+  "for_rent": true,
+  "for_sale": false,
+  "funding_status": "funded",
+  "installment_interval": "monthly",
+  "is_published": true,
+  "listing_status": "active",
+  "location": "Sidi Abdel Rahman, North Coast",
+  "ownership_type": "co",
+  "property_sub_type": "second home",
+  "property_type": "residential",
+  "publish_time": "2026-02-09T15:00:00",
+  "sold_shares": 14,
+  "title": "Farida Summer Bianchi - installment 5",
+  "total_shares": 25,
+  "installments_count": 91,
+  "down_payment": 10200.0,
+  "down_payments_count": 3,
+  "images": [
+    {
+      "id": 56121,
+      "uuid": "4ea0ff6d-125f-4c2e-beb7-d69976d6ee5f",
+      "file_name": "9e731199-3fd0-4253-bd41-5c3666067b5c.jpg",
+      "original_url": "https://faridah.s3.amazonaws.com/56121%2F9e731199-3fd0-4253-bd41-5c3666067b5c.jpg",
+      "thumb_url": "https://faridah.s3.amazonaws.com/56121%2Fconversions%2F9e731199-3fd0-4253-bd41-5c3666067b5c-thumb.jpg",
+      "web_url": "https://faridah.s3.amazonaws.com/56121%2Fconversions%2F9e731199-3fd0-4253-bd41-5c3666067b5c-web.webp",
+      "preview_url": "https://faridah.s3.amazonaws.com/56121%2Fconversions%2F9e731199-3fd0-4253-bd41-5c3666067b5c-preview.jpg",
+      "extension": "jpeg",
+      "size": 117003,
+      "order": 1
+    }
+  ],
+  "return": 0.0,
+  "installment": 1000.0,
+  "payment_schedules": {
+    "down_payments": [
+      {
+        "id": 22182,
+        "amount": 10200.0,
+        "currency": "EGP",
+        "due_date": "2026-02-09",
+        "name": "Down Payment 1",
+        "type": "down_payment"
+      },
+      {
+        "id": 22183,
+        "amount": 9000.0,
+        "currency": "EGP",
+        "due_date": "2026-03-09",
+        "name": "Down Payment 2",
+        "type": "down_payment"
+      },
+      {
+        "id": 22216,
+        "amount": 16800.0,
+        "currency": "EGP",
+        "due_date": "2028-10-15",
+        "name": "Down Payment 3",
+        "type": "down_payment"
+      }
+    ],
+    "installments": [
+      {
+        "id": 22184,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-04-09",
+        "name": "Installment 1",
+        "type": "installment"
+      },
+      {
+        "id": 22185,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-05-09",
+        "name": "Installment 2",
+        "type": "installment"
+      },
+      {
+        "id": 22186,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-06-09",
+        "name": "Installment 3",
+        "type": "installment"
+      },
+      {
+        "id": 22187,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-07-09",
+        "name": "Installment 4",
+        "type": "installment"
+      },
+      {
+        "id": 22188,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-08-09",
+        "name": "Installment 5",
+        "type": "installment"
+      },
+      {
+        "id": 22189,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-09-09",
+        "name": "Installment 6",
+        "type": "installment"
+      },
+      {
+        "id": 22190,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-10-09",
+        "name": "Installment 7",
+        "type": "installment"
+      },
+      {
+        "id": 22191,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-11-09",
+        "name": "Installment 8",
+        "type": "installment"
+      },
+      {
+        "id": 22192,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2026-12-09",
+        "name": "Installment 9",
+        "type": "installment"
+      },
+      {
+        "id": 22193,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-01-09",
+        "name": "Installment 10",
+        "type": "installment"
+      },
+      {
+        "id": 22194,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-02-09",
+        "name": "Installment 11",
+        "type": "installment"
+      },
+      {
+        "id": 22195,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-03-09",
+        "name": "Installment 12",
+        "type": "installment"
+      },
+      {
+        "id": 22196,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-04-09",
+        "name": "Installment 13",
+        "type": "installment"
+      },
+      {
+        "id": 22197,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-05-09",
+        "name": "Installment 14",
+        "type": "installment"
+      },
+      {
+        "id": 22198,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-06-09",
+        "name": "Installment 15",
+        "type": "installment"
+      },
+      {
+        "id": 22199,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-07-09",
+        "name": "Installment 16",
+        "type": "installment"
+      },
+      {
+        "id": 22200,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-08-09",
+        "name": "Installment 17",
+        "type": "installment"
+      },
+      {
+        "id": 22201,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-09-09",
+        "name": "Installment 18",
+        "type": "installment"
+      },
+      {
+        "id": 22202,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-10-09",
+        "name": "Installment 19",
+        "type": "installment"
+      },
+      {
+        "id": 22203,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-11-09",
+        "name": "Installment 20",
+        "type": "installment"
+      },
+      {
+        "id": 22204,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2027-12-09",
+        "name": "Installment 21",
+        "type": "installment"
+      },
+      {
+        "id": 22205,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-01-09",
+        "name": "Installment 22",
+        "type": "installment"
+      },
+      {
+        "id": 22206,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-02-09",
+        "name": "Installment 23",
+        "type": "installment"
+      },
+      {
+        "id": 22207,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-03-09",
+        "name": "Installment 24",
+        "type": "installment"
+      },
+      {
+        "id": 22208,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-04-09",
+        "name": "Installment 25",
+        "type": "installment"
+      },
+      {
+        "id": 22209,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-05-09",
+        "name": "Installment 26",
+        "type": "installment"
+      },
+      {
+        "id": 22210,
+        "amount": 12480.0,
+        "currency": "EGP",
+        "due_date": "2028-06-01",
+        "name": "Maintenance Deposit 1",
+        "type": "maintenance_deposit"
+      },
+      {
+        "id": 22211,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-06-09",
+        "name": "Installment 27",
+        "type": "installment"
+      },
+      {
+        "id": 22212,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-07-09",
+        "name": "Installment 28",
+        "type": "installment"
+      },
+      {
+        "id": 22213,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-08-09",
+        "name": "Installment 29",
+        "type": "installment"
+      },
+      {
+        "id": 22214,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-09-09",
+        "name": "Installment 30",
+        "type": "installment"
+      },
+      {
+        "id": 22215,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-10-09",
+        "name": "Installment 31",
+        "type": "installment"
+      },
+      {
+        "id": 22217,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-11-09",
+        "name": "Installment 32",
+        "type": "installment"
+      },
+      {
+        "id": 22218,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2028-12-09",
+        "name": "Installment 33",
+        "type": "installment"
+      },
+      {
+        "id": 22219,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-01-09",
+        "name": "Installment 34",
+        "type": "installment"
+      },
+      {
+        "id": 22220,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-02-09",
+        "name": "Installment 35",
+        "type": "installment"
+      },
+      {
+        "id": 22221,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-03-09",
+        "name": "Installment 36",
+        "type": "installment"
+      },
+      {
+        "id": 22222,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-04-09",
+        "name": "Installment 37",
+        "type": "installment"
+      },
+      {
+        "id": 22223,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-05-09",
+        "name": "Installment 38",
+        "type": "installment"
+      },
+      {
+        "id": 22224,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-06-09",
+        "name": "Installment 39",
+        "type": "installment"
+      },
+      {
+        "id": 22225,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-07-09",
+        "name": "Installment 40",
+        "type": "installment"
+      },
+      {
+        "id": 22226,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-08-09",
+        "name": "Installment 41",
+        "type": "installment"
+      },
+      {
+        "id": 22227,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-09-09",
+        "name": "Installment 42",
+        "type": "installment"
+      },
+      {
+        "id": 22228,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-10-09",
+        "name": "Installment 43",
+        "type": "installment"
+      },
+      {
+        "id": 22229,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-11-09",
+        "name": "Installment 44",
+        "type": "installment"
+      },
+      {
+        "id": 22230,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2029-12-09",
+        "name": "Installment 45",
+        "type": "installment"
+      },
+      {
+        "id": 22231,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-01-09",
+        "name": "Installment 46",
+        "type": "installment"
+      },
+      {
+        "id": 22232,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-02-09",
+        "name": "Installment 47",
+        "type": "installment"
+      },
+      {
+        "id": 22233,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-03-09",
+        "name": "Installment 48",
+        "type": "installment"
+      },
+      {
+        "id": 22234,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-04-09",
+        "name": "Installment 49",
+        "type": "installment"
+      },
+      {
+        "id": 22235,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-05-09",
+        "name": "Installment 50",
+        "type": "installment"
+      },
+      {
+        "id": 22236,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-06-09",
+        "name": "Installment 51",
+        "type": "installment"
+      },
+      {
+        "id": 22237,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-07-09",
+        "name": "Installment 52",
+        "type": "installment"
+      },
+      {
+        "id": 22238,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-08-09",
+        "name": "Installment 53",
+        "type": "installment"
+      },
+      {
+        "id": 22239,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-09-09",
+        "name": "Installment 54",
+        "type": "installment"
+      },
+      {
+        "id": 22240,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-10-09",
+        "name": "Installment 55",
+        "type": "installment"
+      },
+      {
+        "id": 22241,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-11-09",
+        "name": "Installment 56",
+        "type": "installment"
+      },
+      {
+        "id": 22242,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2030-12-09",
+        "name": "Installment 57",
+        "type": "installment"
+      },
+      {
+        "id": 22243,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-01-09",
+        "name": "Installment 58",
+        "type": "installment"
+      },
+      {
+        "id": 22244,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-02-09",
+        "name": "Installment 59",
+        "type": "installment"
+      },
+      {
+        "id": 22245,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-03-09",
+        "name": "Installment 60",
+        "type": "installment"
+      },
+      {
+        "id": 22246,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-04-09",
+        "name": "Installment 61",
+        "type": "installment"
+      },
+      {
+        "id": 22247,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-05-09",
+        "name": "Installment 62",
+        "type": "installment"
+      },
+      {
+        "id": 22248,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-06-09",
+        "name": "Installment 63",
+        "type": "installment"
+      },
+      {
+        "id": 22249,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-07-09",
+        "name": "Installment 64",
+        "type": "installment"
+      },
+      {
+        "id": 22250,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-08-09",
+        "name": "Installment 65",
+        "type": "installment"
+      },
+      {
+        "id": 22251,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-09-09",
+        "name": "Installment 66",
+        "type": "installment"
+      },
+      {
+        "id": 22252,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-10-09",
+        "name": "Installment 67",
+        "type": "installment"
+      },
+      {
+        "id": 22253,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-11-09",
+        "name": "Installment 68",
+        "type": "installment"
+      },
+      {
+        "id": 22254,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2031-12-09",
+        "name": "Installment 69",
+        "type": "installment"
+      },
+      {
+        "id": 22255,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-01-09",
+        "name": "Installment 70",
+        "type": "installment"
+      },
+      {
+        "id": 22256,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-02-09",
+        "name": "Installment 71",
+        "type": "installment"
+      },
+      {
+        "id": 22257,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-03-09",
+        "name": "Installment 72",
+        "type": "installment"
+      },
+      {
+        "id": 22258,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-04-09",
+        "name": "Installment 73",
+        "type": "installment"
+      },
+      {
+        "id": 22259,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-05-09",
+        "name": "Installment 74",
+        "type": "installment"
+      },
+      {
+        "id": 22260,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-06-09",
+        "name": "Installment 75",
+        "type": "installment"
+      },
+      {
+        "id": 22261,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-07-09",
+        "name": "Installment 76",
+        "type": "installment"
+      },
+      {
+        "id": 22262,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-08-09",
+        "name": "Installment 77",
+        "type": "installment"
+      },
+      {
+        "id": 22263,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-09-09",
+        "name": "Installment 78",
+        "type": "installment"
+      },
+      {
+        "id": 22264,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-10-09",
+        "name": "Installment 79",
+        "type": "installment"
+      },
+      {
+        "id": 22265,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-11-09",
+        "name": "Installment 80",
+        "type": "installment"
+      },
+      {
+        "id": 22266,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2032-12-09",
+        "name": "Installment 81",
+        "type": "installment"
+      },
+      {
+        "id": 22267,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-01-09",
+        "name": "Installment 82",
+        "type": "installment"
+      },
+      {
+        "id": 22268,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-02-09",
+        "name": "Installment 83",
+        "type": "installment"
+      },
+      {
+        "id": 22269,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-03-09",
+        "name": "Installment 84",
+        "type": "installment"
+      },
+      {
+        "id": 22270,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-04-09",
+        "name": "Installment 85",
+        "type": "installment"
+      },
+      {
+        "id": 22271,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-05-09",
+        "name": "Installment 86",
+        "type": "installment"
+      },
+      {
+        "id": 22272,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-06-09",
+        "name": "Installment 87",
+        "type": "installment"
+      },
+      {
+        "id": 22273,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-07-09",
+        "name": "Installment 88",
+        "type": "installment"
+      },
+      {
+        "id": 22274,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-08-09",
+        "name": "Installment 89",
+        "type": "installment"
+      },
+      {
+        "id": 22275,
+        "amount": 1000.0,
+        "currency": "EGP",
+        "due_date": "2033-09-09",
+        "name": "Installment 90",
+        "type": "installment"
+      }
+    ]
+  }
+}
+
+========================================================================================================================
+PROPERTY #3 - ID: 371
+========================================================================================================================
+{
+  "max_shares_per_investor": 20,
+  "id": 371,
+  "accept_waiting_list": false,
+  "available_shares": 22,
+  "available_shares_for_sale": 14,
+  "available_shares_not_to_sale": 8,
+  "currency": "EGP",
+  "delivery_date": "2028-12-02",
+  "exit_date": "2027-02-09",
+  "for_rent": true,
+  "for_sale": false,
+  "funding_status": "available",
+  "installment_interval": "monthly",
+  "is_published": true,
+  "listing_status": "active",
+  "location": "Sidi Abdel Rahman, North Coast",
+  "ownership_type": "co",
+  "property_sub_type": "second home",
+  "property_type": "residential",
+  "publish_time": "2026-02-09T15:00:00",
+  "sold_shares": 3,
+  "title": "Farida Summer Bianchi - Cash 3",
+  "total_shares": 25,
+  "installments_count": 13,
+  "down_payment": 10770.0,
+  "down_payments_count": 1,
+  "images": [
+    {
+      "id": 56099,
+      "uuid": "1c5a4a41-0cf4-42ae-86fe-f05a3818a4f8",
+      "file_name": "9e731199-3fd0-4253-bd41-5c3666067b5c.jpg",
+      "original_url": "https://faridah.s3.amazonaws.com/56099%2F9e731199-3fd0-4253-bd41-5c3666067b5c.jpg",
+      "thumb_url": "https://faridah.s3.amazonaws.com/56099%2Fconversions%2F9e731199-3fd0-4253-bd41-5c3666067b5c-thumb.jpg",
+      "web_url": "https://faridah.s3.amazonaws.com/56099%2Fconversions%2F9e731199-3fd0-4253-bd41-5c3666067b5c-web.webp",
+      "preview_url": "https://faridah.s3.amazonaws.com/56099%2Fconversions%2F9e731199-3fd0-4253-bd41-5c3666067b5c-preview.jpg",
+      "extension": "jpeg",
+      "size": 117003,
+      "order": 1
+    }
+  ],
+  "return": 0.0,
+  "installment": 5840.0,
+  "payment_schedules": {
+    "down_payments": [
+      {
+        "id": 22168,
+        "amount": 10770.0,
+        "currency": "EGP",
+        "due_date": "2026-02-09",
+        "name": "Down Payment 1",
+        "type": "down_payment"
+      }
+    ],
+    "installments": [
+      {
+        "id": 22169,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-03-09",
+        "name": "Installment 1",
+        "type": "installment"
+      },
+      {
+        "id": 22170,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-04-09",
+        "name": "Installment 2",
+        "type": "installment"
+      },
+      {
+        "id": 22171,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-05-09",
+        "name": "Installment 3",
+        "type": "installment"
+      },
+      {
+        "id": 22172,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-06-09",
+        "name": "Installment 4",
+        "type": "installment"
+      },
+      {
+        "id": 22173,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-07-09",
+        "name": "Installment 5",
+        "type": "installment"
+      },
+      {
+        "id": 22174,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-08-09",
+        "name": "Installment 6",
+        "type": "installment"
+      },
+      {
+        "id": 22175,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-09-09",
+        "name": "Installment 7",
+        "type": "installment"
+      },
+      {
+        "id": 22176,
+        "amount": 12480.0,
+        "currency": "EGP",
+        "due_date": "2026-10-01",
+        "name": "Maintenance Deposit 1",
+        "type": "maintenance_deposit"
+      },
+      {
+        "id": 22177,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-10-09",
+        "name": "Installment 8",
+        "type": "installment"
+      },
+      {
+        "id": 22178,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-11-09",
+        "name": "Installment 9",
+        "type": "installment"
+      },
+      {
+        "id": 22179,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2026-12-09",
+        "name": "Installment 10",
+        "type": "installment"
+      },
+      {
+        "id": 22180,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2027-01-09",
+        "name": "Installment 11",
+        "type": "installment"
+      },
+      {
+        "id": 22181,
+        "amount": 5840.0,
+        "currency": "EGP",
+        "due_date": "2027-02-09",
+        "name": "Installment 12",
+        "type": "installment"
+      }
+    ]
+  }
+}
+
+========================================================================================================================
+PROPERTY #4 - ID: 370
+========================================================================================================================
+{
+  "max_shares_per_investor": 20,
+  "id": 370,
+  "accept_waiting_list": false,
+  "available_shares": 15,
+  "available_shares_for_sale": 5,
+  "available_shares_not_to_sale": 10,
+  "currency": "EGP",
+  "delivery_date": "2027-01-12",
+  "exit_date": "2027-01-09",
+  "for_rent": true,
+  "for_sale": false,
+  "funding_status": "available",
+  "installment_interval": "monthly",
+  "is_published": true,
+  "listing_status": "active",
+  "location": "ZED East Compound - New Cairo",
+  "ownership_type": "co",
+  "property_sub_type": "Administrative offices",
+  "property_type": "administrative",
+  "publish_time": "2026-02-09T15:00:00",
+  "sold_shares": 10,
+  "title": "Office Space - ZED East Strip ZS-B-5-A  (1)",
+  "total_shares": 25,
+  "installments_count": 12,
+  "down_payment": 16900.0,
+  "down_payments_count": 2,
+  "images": [
+    {
+      "id": 56073,
+      "uuid": "7138ddc7-6413-45c6-9a59-c8537bcd0646",
+      "file_name": "1f403934-ef1b-4833-a098-949bf9adc780.jpg",
+      "original_url": "https://faridah.s3.amazonaws.com/56073%2F1f403934-ef1b-4833-a098-949bf9adc780.jpg",
+      "thumb_url": "https://faridah.s3.amazonaws.com/56073%2Fconversions%2F1f403934-ef1b-4833-a098-949bf9adc780-thumb.jpg",
+      "web_url": "https://faridah.s3.amazonaws.com/56073%2Fconversions%2F1f403934-ef1b-4833-a098-949bf9adc780-web.webp",
+      "preview_url": "https://faridah.s3.amazonaws.com/56073%2Fconversions%2F1f403934-ef1b-4833-a098-949bf9adc780-preview.jpg",
+      "extension": "jpeg",
+      "size": 148529,
+      "order": 1
+    }
+  ],
+  "return": 0.0,
+  "installment": 9455.0,
+  "payment_schedules": {
+    "down_payments": [
+      {
+        "id": 22154,
+        "amount": 16900.0,
+        "currency": "EGP",
+        "due_date": "2026-02-09",
+        "name": "Down Payment 1",
+        "type": "down_payment"
+      },
+      {
+        "id": 22155,
+        "amount": 15600.0,
+        "currency": "EGP",
+        "due_date": "2026-03-09",
+        "name": "Down Payment 2",
+        "type": "down_payment"
+      }
+    ],
+    "installments": [
+      {
+        "id": 22156,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-04-09",
+        "name": "Installment 1",
+        "type": "installment"
+      },
+      {
+        "id": 22157,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-05-09",
+        "name": "Installment 2",
+        "type": "installment"
+      },
+      {
+        "id": 22158,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-06-09",
+        "name": "Installment 3",
+        "type": "installment"
+      },
+      {
+        "id": 22159,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-07-09",
+        "name": "Installment 4",
+        "type": "installment"
+      },
+      {
+        "id": 22160,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-08-09",
+        "name": "Installment 5",
+        "type": "installment"
+      },
+      {
+        "id": 22161,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-09-09",
+        "name": "Installment 6",
+        "type": "installment"
+      },
+      {
+        "id": 22162,
+        "amount": 14976.0,
+        "currency": "EGP",
+        "due_date": "2026-09-17",
+        "name": "Maintenance Deposit 1",
+        "type": "maintenance_deposit"
+      },
+      {
+        "id": 22163,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-10-09",
+        "name": "Installment 7",
+        "type": "installment"
+      },
+      {
+        "id": 22164,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-11-09",
+        "name": "Installment 8",
+        "type": "installment"
+      },
+      {
+        "id": 22165,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2026-12-09",
+        "name": "Installment 9",
+        "type": "installment"
+      },
+      {
+        "id": 22166,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2027-01-09",
+        "name": "Installment 10",
+        "type": "installment"
+      },
+      {
+        "id": 22167,
+        "amount": 9455.0,
+        "currency": "EGP",
+        "due_date": "2027-02-09",
+        "name": "Installment 11",
+        "type": "installment"
+      }
+    ]
+  }
+}
+
+========================================================================================================================
+PROPERTY #5 - ID: 369
+========================================================================================================================
+{
+  "max_shares_per_investor": 20,
+  "id": 369,
+  "accept_waiting_list": false,
+  "available_shares": 24,
+  "available_shares_for_sale": 16,
+  "available_shares_not_to_sale": 8,
+  "currency": "EGP",
+  "delivery_date": "2028-07-28",
+  "exit_date": "2027-02-09",
+  "for_rent": true,
+  "for_sale": false,
+  "funding_status": "available",
+  "installment_interval": "monthly",
+  "is_published": true,
+  "listing_status": "active",
+  "location": "New Administrative Capital - ( CBD )",
+  "ownership_type": "co",
+  "property_sub_type": "home 2nd",
+  "property_type": "Hotel Apartment",
+  "publish_time": "2026-02-09T15:00:00",
+  "sold_shares": 1,
+  "title": "Hotel Apartment by Time Hotel - CBD 4",
+  "total_shares": 25,
+  "installments_count": 12,
+  "down_payment": 16500.0,
+  "down_payments_count": 2,
+  "images": [
+    {
+      "id": 56050,
+      "uuid": "fe9488e1-bfda-43dc-ab04-8714355d8e2d",
+      "file_name": "2811b139-83ce-4f57-ad48-e129252ae252.jpg",
+      "original_url": "https://faridah.s3.amazonaws.com/56050%2F2811b139-83ce-4f57-ad48-e129252ae252.jpg",
+      "thumb_url": "https://faridah.s3.amazonaws.com/56050%2Fconversions%2F2811b139-83ce-4f57-ad48-e129252ae252-thumb.jpg",
+      "web_url": "https://faridah.s3.amazonaws.com/56050%2Fconversions%2F2811b139-83ce-4f57-ad48-e129252ae252-web.webp",
+      "preview_url": "https://faridah.s3.amazonaws.com/56050%2Fconversions%2F2811b139-83ce-4f57-ad48-e129252ae252-preview.jpg",
+      "extension": "jpeg",
+      "size": 262449,
+      "order": 1
+    }
+  ],
+  "return": 0.0,
+  "installment": 5672.0,
+  "payment_schedules": {
+    "down_payments": [
+      {
+        "id": 22140,
+        "amount": 16500.0,
+        "currency": "EGP",
+        "due_date": "2026-02-09",
+        "name": "Down Payment 1",
+        "type": "down_payment"
+      },
+      {
+        "id": 22141,
+        "amount": 15600.0,
+        "currency": "EGP",
+        "due_date": "2026-03-09",
+        "name": "Down Payment 2",
+        "type": "down_payment"
+      }
+    ],
+    "installments": [
+      {
+        "id": 22142,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-04-09",
+        "name": "Installment 1",
+        "type": "installment"
+      },
+      {
+        "id": 22143,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-05-09",
+        "name": "Installment 2",
+        "type": "installment"
+      },
+      {
+        "id": 22144,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-06-09",
+        "name": "Installment 3",
+        "type": "installment"
+      },
+      {
+        "id": 22145,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-07-09",
+        "name": "Installment 4",
+        "type": "installment"
+      },
+      {
+        "id": 22146,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-08-09",
+        "name": "Installment 5",
+        "type": "installment"
+      },
+      {
+        "id": 22147,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-09-09",
+        "name": "Installment 6",
+        "type": "installment"
+      },
+      {
+        "id": 22148,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-10-09",
+        "name": "Installment 7",
+        "type": "installment"
+      },
+      {
+        "id": 22149,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-11-09",
+        "name": "Installment 8",
+        "type": "installment"
+      },
+      {
+        "id": 22150,
+        "amount": 14976.0,
+        "currency": "EGP",
+        "due_date": "2026-11-16",
+        "name": "Maintenance Deposit 1",
+        "type": "maintenance_deposit"
+      },
+      {
+        "id": 22151,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2026-12-09",
+        "name": "Installment 9",
+        "type": "installment"
+      },
+      {
+        "id": 22152,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2027-01-09",
+        "name": "Installment 10",
+        "type": "installment"
+      },
+      {
+        "id": 22153,
+        "amount": 5672.0,
+        "currency": "EGP",
+        "due_date": "2027-02-09",
+        "name": "Installment 11",
+        "type": "installment"
+      }
+    ]
+  }
+}
+
+========================================================================================================================
+PROPERTY #6 - ID: 368
+========================================================================================================================
+{
+  "max_shares_per_investor": 20,
+  "id": 368,
+  "accept_waiting_list": false,
+  "available_shares": 24,
+  "available_shares_for_sale": 12,
+  "available_shares_not_to_sale": 12,
+  "currency": "EGP",
+  "delivery_date": "2028-01-01",
+  "exit_date": "2027-01-22",
+  "for_rent": true,
+  "for_sale": false,
+  "funding_status": "available",
+  "installment_interval": "monthly",
+  "is_published": true,
+  "listing_status": "active",
+  "location": "New Administrative Capital of Egypt ( CBD )",
+  "ownership_type": "co",
+  "property_sub_type": "commercial",
+  "property_type": "commercial",
+  "publish_time": "2026-02-09T15:00:00",
+  "sold_shares": 1,
+  "title": "Commercial - Evolve Tower Cash 3",
+  "total_shares": 25,
+  "installments_count": 13,
+  "down_payment": 15960.0,
+  "down_payments_count": 2,
+  "images": [
+    {
+      "id": 56043,
+      "uuid": "50486172-1a27-4d83-8f65-431b2e7ad049",
+      "file_name": "dc771d2e-6a07-41ff-bccd-3692372cc068.jpg",
+      "original_url": "https://faridah.s3.amazonaws.com/56043%2Fdc771d2e-6a07-41ff-bccd-3692372cc068.jpg",
+      "thumb_url": "https://faridah.s3.amazonaws.com/56043%2Fconversions%2Fdc771d2e-6a07-41ff-bccd-3692372cc068-thumb.jpg",
+      "web_url": "https://faridah.s3.amazonaws.com/56043%2Fconversions%2Fdc771d2e-6a07-41ff-bccd-3692372cc068-web.webp",
+      "preview_url": "https://faridah.s3.amazonaws.com/56043%2Fconversions%2Fdc771d2e-6a07-41ff-bccd-3692372cc068-preview.jpg",
+      "extension": "jpeg",
+      "size": 163627,
+      "order": 1
+    }
+  ],
+  "return": 0.0,
+  "installment": 9710.0,
+  "payment_schedules": {
+    "down_payments": [
+      {
+        "id": 22125,
+        "amount": 15960.0,
+        "currency": "EGP",
+        "due_date": "2026-02-09",
+        "name": "Down Payment 1",
+        "type": "down_payment"
+      },
+      {
+        "id": 22126,
+        "amount": 14560.0,
+        "currency": "EGP",
+        "due_date": "2026-03-09",
+        "name": "Down Payment 2",
+        "type": "down_payment"
+      }
+    ],
+    "installments": [
+      {
+        "id": 22127,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-04-09",
+        "name": "Installment 1",
+        "type": "installment"
+      },
+      {
+        "id": 22128,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-05-09",
+        "name": "Installment 2",
+        "type": "installment"
+      },
+      {
+        "id": 22129,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-06-09",
+        "name": "Installment 3",
+        "type": "installment"
+      },
+      {
+        "id": 22130,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-07-09",
+        "name": "Installment 4",
+        "type": "installment"
+      },
+      {
+        "id": 22131,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-08-09",
+        "name": "Installment 5",
+        "type": "installment"
+      },
+      {
+        "id": 22132,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-09-09",
+        "name": "Installment 6",
+        "type": "installment"
+      },
+      {
+        "id": 22133,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-10-09",
+        "name": "Installment 7",
+        "type": "installment"
+      },
+      {
+        "id": 22134,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-11-09",
+        "name": "Installment 8",
+        "type": "installment"
+      },
+      {
+        "id": 22135,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2026-12-09",
+        "name": "Installment 9",
+        "type": "installment"
+      },
+      {
+        "id": 22136,
+        "amount": 24960.0,
+        "currency": "EGP",
+        "due_date": "2027-01-01",
+        "name": "Maintenance Deposit 1",
+        "type": "maintenance_deposit"
+      },
+      {
+        "id": 22137,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2027-01-09",
+        "name": "Installment 10",
+        "type": "installment"
+      },
+      {
+        "id": 22138,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2027-02-09",
+        "name": "Installment 11",
+        "type": "installment"
+      },
+      {
+        "id": 22139,
+        "amount": 9710.0,
+        "currency": "EGP",
+        "due_date": "2027-03-09",
+        "name": "Installment 12",
+        "type": "installment"
+      }
+    ]
+  }
+}
+
+========================================================================================================================
+PROPERTY #7 - ID: 367
+========================================================================================================================
+Traceback (most recent call last):
+  File "D:\AI\Freelance\Sabry\AI-Scraping\extract_detailed_properties.py", line 61, in <module>
+    extract_property_details()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\AI\Freelance\Sabry\AI-Scraping\extract_detailed_properties.py", line 43, in extract_property_details
+    print(json.dumps(prop, indent=2, ensure_ascii=False))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ahmed\anaconda3\Lib\encodings\cp1256.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u202f' in position 476: character maps to <undefined>

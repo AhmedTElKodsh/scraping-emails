@@ -1,0 +1,51 @@
+# Farida Estate Scraping Pipeline Configuration
+
+# Scraping Intervals (in hours)
+intervals:
+  layer1_wordpress: 24 # Run WordPress scraper daily
+  layer2_app: 6 # Run app scraper every 6 hours
+
+# Request Settings
+request:
+  delay_seconds: 3 # Delay between API requests
+  timeout_seconds: 30 # Request timeout
+  max_retries: 3 # Max retry attempts per request
+  retry_backoff_base: 2 # Exponential backoff base (seconds)
+
+# Endpoint Toggles (enable/disable specific endpoints)
+endpoints:
+  layer1_enabled: true
+  layer2_enabled: true
+
+  # Layer 2 specific endpoints (set to false to skip)
+  app_endpoints:
+    profile_status: true
+    wallet_balance: true
+    investor_preferences: true
+    investor_profile: true
+    properties_for_you: true
+    assets_amounts: true
+    properties: true
+    portfolio: true
+    wallet_due_amount: true
+    wallet_transactions: true
+
+# Error Handling
+error_handling:
+  circuit_breaker_threshold: 5 # Stop after N consecutive failures
+  alert_on_failure: false # Enable alerts (future: webhook/email)
+  continue_on_error: true # Continue with other endpoints on failure
+
+# Logging
+logging:
+  level: INFO # DEBUG, INFO, WARNING, ERROR
+  file: logs/scraper.log
+  max_file_size_mb: 10
+  backup_count: 5
+
+# Database
+database:
+  path: data/farida.db
+  wal_mode: true # Enable WAL mode for better concurrency
+  backup_enabled: false # Auto-backup before each run
+  backup_path: data/backups/

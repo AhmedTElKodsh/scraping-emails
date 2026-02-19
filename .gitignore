@@ -1,0 +1,9 @@
+.env
+data/farida.db
+data/api_contract.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+nul
+$null
