@@ -2,6 +2,10 @@
 
 A free, stealth web scraping engine for B2B lead extraction from Clutch.co and Sortlist.com with automatic email discovery.
 
+## 🚀 Live Demo
+
+**Try it now:** [https://scraping-emails-production.up.railway.app](https://scraping-emails-production.up.railway.app)
+
 ## Features
 
 - 📧 Automatic email extraction from company websites
@@ -79,6 +83,10 @@ scraping-emails/
 - **BeautifulSoup** - HTML parsing
 - **Pandas** - Data manipulation
 - **Docker** - Containerization
+
+## Deployment
+
+Deployed on [Railway](https://railway.app) with automatic builds from the main branch.
 
 ## License
 
