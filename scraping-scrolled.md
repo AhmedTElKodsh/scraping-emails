@@ -1,0 +1,65 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - button "keyboard_double_arrow_left" [ref=e150] [cursor=pointer]:
+      - generic [ref=e152]: keyboard_double_arrow_left
+    - generic [ref=e11]:
+      - heading "Configuration" [level=2] [ref=e15]
+      - generic [ref=e17]:
+        - paragraph [ref=e21]: Select Site
+        - radiogroup "Select Site" [ref=e22]:
+          - generic [ref=e23]:
+            - radio "Clutch.co" [checked] [disabled]
+            - paragraph [ref=e28]: Clutch.co
+          - generic [ref=e29]:
+            - radio "Sortlist.com" [disabled]
+            - paragraph [ref=e34]: Sortlist.com
+          - generic [ref=e35]:
+            - radio "Both" [disabled]
+            - paragraph [ref=e40]: Both
+      - generic [ref=e309]:
+        - paragraph [ref=e313]: Clutch.co Category
+        - generic [ref=e315]:
+          - generic [ref=e316]:
+            - generic [ref=e317]: Development
+            - combobox "Selected Development. Clutch.co Category" [disabled] [ref=e319]
+          - img "open" [ref=e321]
+      - separator [ref=e327]
+      - generic [ref=e329]:
+        - button "Start Scraping" [disabled] [ref=e334]:
+          - paragraph [ref=e338]: Start Scraping
+        - button "Stop" [ref=e343] [cursor=pointer]:
+          - paragraph [ref=e347]: Stop
+      - separator [ref=e352]
+      - heading "Stats" [level=3] [ref=e355]
+      - generic [ref=e358]:
+        - paragraph [ref=e362]: Companies Scraped
+        - paragraph [ref=e366]: "0"
+      - generic [ref=e368]:
+        - paragraph [ref=e372]: Emails Found
+        - paragraph [ref=e376]: "0"
+  - generic [ref=e3]:
+    - banner [ref=e114]:
+      - generic [ref=e117]:
+        - generic [ref=e405]:
+          - img "Running..." [ref=e406]:
+            - img [ref=e407]
+          - button "Stop" [ref=e411] [cursor=pointer]
+        - button "Deploy" [ref=e119] [cursor=pointer]:
+          - generic [ref=e121]: Deploy
+        - button [ref=e123] [cursor=pointer]:
+          - img [ref=e124]
+    - generic [ref=e127]:
+      - heading "📧 Scraping-Emails" [level=1] [ref=e132]:
+        - text: 📧 Scraping-Emails
+        - generic [ref=e133]:
+          - link "Link to heading":
+            - /url: "#scraping-emails"
+            - img
+      - paragraph [ref=e138]:
+        - strong [ref=e139]: Free B2B lead extraction
+        - text: from Clutch.co & Sortlist.com with automatic email discovery.
+      - alert [ref=e142]:
+        - paragraph [ref=e147]:
+          - text: Select a site and category from the sidebar, then click
+          - strong [ref=e148]: Start Scraping
+          - text: to begin.

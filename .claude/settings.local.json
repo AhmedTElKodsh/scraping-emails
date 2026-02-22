@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.sortlist.com)",
+      "WebFetch(domain:clutch.co)",
+      "WebSearch",
+      "Bash(dir:*)",
+      "Bash(npx skills:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pypi.org)",
+      "WebFetch(domain:crawlbase.com)",
+      "WebFetch(domain:apify.com)",
+      "WebFetch(domain:camoufox.com)",
+      "WebFetch(domain:datawookie.dev)",
+      "WebFetch(domain:www.getodata.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:docs.streamlit.io)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(python -m camoufox:*)",
+      "Bash(streamlit run:*)",
+      "Bash(python:*)",
+      "Bash(docker info:*)",
+      "Bash(docker compose build:*)",
+      "Bash(docker compose:*)",
+      "WebFetch(domain:scraping-emails-production.up.railway.app)",
+      "Bash(railway version:*)",
+      "Bash(railway:*)",
+      "WebFetch(domain:docs.railway.com)",
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "WebFetch(domain:web.archive.org)",
+      "WebFetch(domain:www.sortlist.us)"
+    ]
+  }
+}

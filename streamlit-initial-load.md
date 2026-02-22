@@ -1,0 +1,58 @@
+- generic [ref=e2]:
+  - generic [ref=e11]:
+    - heading "Configuration" [level=2] [ref=e15]
+    - generic [ref=e17]:
+      - paragraph [ref=e21]: Select Site
+      - radiogroup "Select Site" [ref=e22] [cursor=pointer]:
+        - generic [ref=e23]:
+          - radio "Clutch.co" [checked]
+          - paragraph [ref=e28]: Clutch.co
+        - generic [ref=e29]:
+          - radio "Sortlist.com"
+          - paragraph [ref=e34]: Sortlist.com
+        - generic [ref=e35]:
+          - radio "Both"
+          - paragraph [ref=e40]: Both
+    - generic [ref=e42]:
+      - paragraph [ref=e46]: Clutch.co Category
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e50]: Development
+          - combobox "Selected Development. Clutch.co Category" [ref=e52]
+        - img "open" [ref=e54]
+    - separator [ref=e60]
+    - generic [ref=e62]:
+      - button "Start Scraping" [ref=e67] [cursor=pointer]:
+        - paragraph [ref=e71]: Start Scraping
+      - button "Stop" [disabled] [ref=e76]:
+        - paragraph [ref=e80]: Stop
+    - separator [ref=e85]
+    - heading "Stats" [level=3] [ref=e89]
+    - generic [ref=e92]:
+      - paragraph [ref=e96]: Companies Scraped
+      - paragraph [ref=e100]: "0"
+    - generic [ref=e103]:
+      - paragraph [ref=e107]: Emails Found
+      - paragraph [ref=e111]: "0"
+  - generic [ref=e3]:
+    - banner [ref=e114]:
+      - generic [ref=e117]:
+        - button "Deploy" [ref=e119] [cursor=pointer]:
+          - generic [ref=e121]: Deploy
+        - button [ref=e123] [cursor=pointer]:
+          - img [ref=e124]
+    - generic [ref=e127]:
+      - heading "📧 Scraping-Emails" [level=1] [ref=e132]:
+        - text: 📧 Scraping-Emails
+        - generic [ref=e133]:
+          - link "Link to heading":
+            - /url: "#scraping-emails"
+            - img
+      - paragraph [ref=e138]:
+        - strong [ref=e139]: Free B2B lead extraction
+        - text: from Clutch.co & Sortlist.com with automatic email discovery.
+      - alert [ref=e142]:
+        - paragraph [ref=e147]:
+          - text: Select a site and category from the sidebar, then click
+          - strong [ref=e148]: Start Scraping
+          - text: to begin.
