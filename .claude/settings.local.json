@@ -29,7 +29,8 @@
       "WebFetch(domain:docs.railway.com)",
       "WebFetch(domain:webcache.googleusercontent.com)",
       "WebFetch(domain:web.archive.org)",
-      "WebFetch(domain:www.sortlist.us)"
+      "WebFetch(domain:www.sortlist.us)",
+      "WebFetch(domain:docs.discord.com)"
     ]
   }
 }

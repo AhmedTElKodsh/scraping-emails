@@ -6,3 +6,4 @@ pandas>=2.1.0
 openpyxl>=3.1.0
 streamlit>=1.30.0
 email-scraper>=0.6
+python-dotenv>=1.0.0
